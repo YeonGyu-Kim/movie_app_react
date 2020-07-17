@@ -1,3 +1,0 @@
-# Moive app
-
-React JS
